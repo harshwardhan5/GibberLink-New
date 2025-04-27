@@ -1,13 +1,10 @@
 ## Demo
-[gbrl.ai](https://www.gbrl.ai/) — Agent2Agent conversation in your browser (use two devices)
 
 [youtube](https://www.youtube.com/watch?v=EtNagNezo8w) — Agents switching from english to ggwave, video:
 
 [![Agents switching from english to ggwave video](https://img.youtube.com/vi/EtNagNezo8w/maxresdefault.jpg)](https://www.youtube.com/watch?v=EtNagNezo8w)
 
 ## Authors
-
-Contact us: contact@gbrl.ai
 
 based on [ggwave](https://github.com/ggerganov/ggwave) library by [Georgi Gerganov](https://github.com/ggerganov) and conversational AI by [ElevenLabs](https://try.elevenlabs.io/gibberlink)
 
