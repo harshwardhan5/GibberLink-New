@@ -19,4 +19,4 @@ based on [ggwave](https://github.com/ggerganov/ggwave) library by [Georgi Gergan
 Bonus: you can open the [ggwave web demo](https://waver.ggerganov.com/), play the video above and see all the messages decoded!
 
 ## How to repro
-https://github.com/PennyroyalTea/gibberlink/wiki/Repro-steps-for-demo
+https://github.com/harshwardhan5/GibberLink-New/wiki/Repro-steps-for-demo
